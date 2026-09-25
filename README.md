@@ -27,8 +27,8 @@ robot simulation, and industrial automation.
 
 ### 🧩 3D Geometry & Computer-Aided Design
 
-![Open3D](https://img.shields.io/badge/Open3D-3D%20Processing-blue?style=for-the-badge)
 ![Trimesh](https://img.shields.io/badge/Trimesh-3D%20Geometry-orange?style=for-the-badge)
+![Open3D](https://img.shields.io/badge/Open3D-3D%20Processing-blue?style=for-the-badge)
 ![MeshLab](https://img.shields.io/badge/MeshLab-3D%20Processing-green?style=for-the-badge)
 ![Creo](https://img.shields.io/badge/Creo-Parametric-red?style=for-the-badge)
 
