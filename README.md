@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mahrukh | PhD | Robotics & Automation 
 
-### Robotics Engineer | 3D Geometry | Path Planning | Industrial Robotics
+###  Engineer   | Industrial Robotics | 3D Geometry | Path Planning
 
 I build robotics projects focused on motion planning, 3D geometry,
 robot simulation, and industrial automation.
